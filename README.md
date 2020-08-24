@@ -40,8 +40,8 @@ The following steps were followed in this project:
 
 ## Members 
 
-|Name     |
-|---------|
+|Project Team|
+|---|
 |[Furkan KARAKUZ](https://github.com/furkankarakuz)|
 |[Oğuzhan AKKURT](https://github.com/Totoro8697)|
 |[Muhammed Nafiz CANITEZ](https://github.com/nafizcntz)|
