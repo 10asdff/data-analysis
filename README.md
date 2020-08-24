@@ -13,15 +13,15 @@ We created and predicted a linear model from Sydney house prices, so we found th
 ## Requirements
 
 There are some general library requirements for the Project. The general requirements are as follows.
- *	Numpy
- *	Pandas
- *	Scikit-learn
- *  Statsmodels
+ -	Numpy
+ -	Pandas
+ -	Scikit-learn
+ - Statsmodels
  
 For Visualization
- *	Matplotlib
- *	Seaborn
- *	Missingno
+ -	Matplotlib
+ -	Seaborn
+ -	Missingno
 
 
 ## Content
