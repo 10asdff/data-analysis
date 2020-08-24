@@ -42,6 +42,6 @@ The following steps were followed in this project:
 
 |Name     |
 |---------|
-|[Furkan KARAKUZ](https://github.com/furkankarakuz)
-|[Oğuzhan AKKURT](https://github.com/Totoro8697)
-|[Muhammed Nafiz CANITEZ](https://github.com/nafizcntz)
+|[Furkan KARAKUZ](https://github.com/furkankarakuz)|
+|[Oğuzhan AKKURT](https://github.com/Totoro8697)|
+|[Muhammed Nafiz CANITEZ](https://github.com/nafizcntz)|
